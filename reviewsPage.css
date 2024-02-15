@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+.BGimg{
+  position: absolute;
+  left: 0px;
+  top:3950px;
+  width: 1903px;
+  height: 1000px;
+  object-fit: cover;
+  filter: blur(2px);
+}
+textarea{
+  position: absolute;
+  right: 650px;
+  top: 4350px;
+  width: 600px;
+  height: 350px;
+  border: none;
+  border-radius: 10px;
+}
+.submitbttn{
+  position: absolute;
+  top: 4650px;
+  left: 860px;
+  border: none;
+  cursor: pointer;
+  background-color: #BC9D7C;
+  width:200px;
+  height: 30px;
+  font-size: 15px;
+  color: white;
+  border-radius: 20px;
+}
+.reviewHead{
+  position: absolute;
+  top: 4150px;
+  left: 690px;
+  font-size: 70px;
+  color: white;
+}
